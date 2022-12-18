@@ -1,0 +1,18 @@
+{
+    "id": "dev.asportnoy.ModernIndicators",
+    "name": "Modern Indicators",
+    "description": "Update Discord's Indicators to feel more modern",
+    "author": {
+        "name": "asportnoy",
+        "discordID": "489484338514100234",
+        "github": "asportnoy"
+    },
+    "version": "1.0.0",
+    "updater": {
+        "type": "github",
+        "id": "asportnoy/modern-indicators"
+    },
+    "license": "MIT",
+    "type": "replugged-theme",
+    "main": "src/main.scss"
+}
